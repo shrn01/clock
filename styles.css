@@ -15,10 +15,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #254b62;
-    --border-color: #476d7c;
-    --clk-color: #1d3e53;
-    --hand-color: #77abb7;
+    --bg-color: #24411f;
+    --border-color: #3f7236;
+    --clk-color: #12210f;
+    --hand-color: #65b058;
   }
 }
 
